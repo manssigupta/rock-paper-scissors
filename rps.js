@@ -54,7 +54,7 @@ function playGame(){
     console.log("Time to play!");
     let humanPoints = 0;
     let computerPoints = 0;
-    while(humanPoints < 3 && computerPoints < 3){
+    /*while(humanPoints < 3 && computerPoints < 3){
         let humanChoice = getHumanChoice();
         if(humanChoice === null){
             return;
@@ -80,7 +80,7 @@ function playGame(){
     }
     else{
         console.log("computer won at last");
-    }
+    }*/
    
         
     
